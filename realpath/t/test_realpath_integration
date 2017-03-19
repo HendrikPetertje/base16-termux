@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/data/data/com.termux/files/bin/sh
 
 . ./realpath.sh
 
@@ -24,7 +24,7 @@ it_outputs_pwd_when_passed_zero_args() {
 
 it_outputs_the_canonical_path_of_crazy_paths() {
     local output
-    mkdir -p somedir/targetdir somedir/anotherdir 
+    mkdir -p somedir/targetdir somedir/anotherdir
     ln -s somedir somedirlink
     ln -s somedir/anotherdir/../anotherlink somelink
     ln -s targetdir/targetpath somedir/anotherlink

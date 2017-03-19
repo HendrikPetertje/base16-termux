@@ -1,4 +1,4 @@
-#!/usr/bin/env fish
+#!/data/data/com.termux/files/usr/bin/env fish
 
 # [what] provides aliases for base16 themes and sets ~/.base16_theme
 #

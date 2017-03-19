@@ -1,6 +1,16 @@
 # Base16 Shell
 A shell script to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (if supported by your terminal). This script makes it possible honor the original bright colors of your shell (e.g. bright green is still green and so on) whilst providing the additional base16 colors to applications such as Vim.
 
+
+## Termux
+**This version of baes16 shell is made for use in [Termux](https://termux.com/).
+You can find the official version of base16-shell in its own 
+[repository](https://github.com/chriskempson/base16-shell).**
+
+## Bug reports for the Termux version
+Please post your bug reports and questions to the dedicated [Gitlab
+repository](https://git.picodevelopment.nl/root/base-16-termux/).
+
 ![Base16 Shell](https://raw.github.com/chriskempson/base16-shell/master/base16-shell.png)
 
 ## Use Cases
@@ -10,7 +20,7 @@ A shell script to change your shell's default ANSI colors but most importantly, 
 
 ## Installation
 
-    git clone https://github.com/chriskempson/base16-shell.git ~/.config/base16-shell
+    git clone https://git.picodevelopment.nl/root/base-16-termux.git ~/.config/base16-shell
 
 ## Shells
 

@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/data/data/com.termux/files/data/data/com.termux/files/usr/bin/sh
 # base16-shell (https://github.com/chriskempson/base16-shell)
 # Base16 Shell template by Chris Kempson (http://chriskempson.com)
 # PhD scheme by Hennig Hasemann (http://leetless.de/vim.html)

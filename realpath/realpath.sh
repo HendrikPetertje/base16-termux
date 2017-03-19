@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/data/data/com.termux/files/bin/sh
 
 realpath() {
     canonicalize_path "$(resolve_symlinks "$1")"
